@@ -1,0 +1,9 @@
+﻿<%@ ServiceHost 
+    
+Language="C#" 
+   
+Debug="true"
+Service="FamilyManager.svc" 
+CodeBehind="E:\_Projekty_2018\WCF\TaskPlannerAPI\TaskPlanner.Data\TaskPlanner.Services\Services\FamilyManager.cs" 
+Factory="Castle.Facilities.WcfIntegration.DefaultServiceHostFactory, 
+Castle.Facilities.WcfIntegration" %>
