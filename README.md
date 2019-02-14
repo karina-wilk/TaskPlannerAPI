@@ -1,2 +1,3 @@
 # TaskPlannerAPI
-WC &amp;, NHibernate playgroud
+WCF & NHibernate playgroud
+!Not finished project!
